@@ -1,0 +1,5 @@
+/* pages/home/home.wxss */
+.user-motto{
+  color: red;
+  font-size: 100px;
+}
